@@ -8,3 +8,4 @@ sources:
       tables:
         - name: green-tripdata
         - name: yellow-tripdata
+        - name: external_fhv_tripdata
