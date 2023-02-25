@@ -1,0 +1,11 @@
+version: 2
+
+sources:
+    - name: staging
+      database: ny-rides-374305
+      schema: bg_lab
+
+      tables:
+        - name: green-tripdata
+        - name: yellow-tripdata
+        - name: external_fhv_tripdata
